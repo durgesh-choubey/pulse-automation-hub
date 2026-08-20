@@ -6,5 +6,13 @@
     "description": "Analysis of ITSM data",
     "color": "#00c57a",
     "added_at": "2026-08-19T06:42:31.822Z"
+  },
+  {
+    "id": "st_1787209027710",
+    "name": "SmartDeck AI",
+    "url": "https://smartdeck-ai.onrender.com/",
+    "description": "Updates PPT based on the uploaded Excel data",
+    "color": "#f0a030",
+    "added_at": "2026-08-20T06:57:07.710Z"
   }
 ]
